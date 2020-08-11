@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/224827073.svg)](https://zenodo.org/badge/latestdoi/224827073)
+
 This repository contains the code for reproducing the results of this manuscript. For all additional information contact the [corresponding author](mirzaceng@gmail.com).
 
 ---
